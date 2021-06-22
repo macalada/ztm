@@ -1,0 +1,14 @@
+body {
+    background-image: url(pic.jpg);
+    background-size: cover;
+}
+h2 {
+    color:rgb(85, 0, 0);
+    border: 5px solid rgba(212, 106, 106,0.5);
+    text-align:center;
+    cursor:pointer;
+}
+li {
+    list-style: none;
+    display:inline-block;
+}
